@@ -10,10 +10,10 @@
   <a href ="https://www.linkedin.com/in/nitin-verma-7b4bb51a8"> LINKEDIN </a> 
   </p>
   
-  <hr>
+  <hr style= "color:red">
   
 <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Nitin Verma. I live in Indore. I have completed my B.Tech in Electronics and Communication Engg. from Shri Vaishnav Vidyapeeth Vishwavidyalaya. I am looking for the job of Entry Level Web Developer using my technical skills to gain knowledge along with company benefits. I'm dedicated and passionate for work. <br>
- I'm sketch artist also. I love to make sketches. I participated in a national level art compelete and secured 5th position. I have a page on instagram.You can also check out ( ID : <a href ="https://www.instagram.com/artbynitz99/"> ARTBYNITZ99</a>). <br>
+ I'm sketch artist also. I love to make sketches. I participated in a national level art competition and secured 5th position. I have a page on instagram.You can also check out ( ID : <a href ="https://www.instagram.com/artbynitz99/"> ARTBYNITZ99</a>). <br>
  
  <b> MY SKILLS </b>
  <ul>
@@ -25,7 +25,7 @@
   <li>MONGODB</li>
   <li>GIT AND GITHUB</li>
  </ul>
- <hr>
+ <hr style= "color:red">
  
 <!-- Display Content --->
 <ul>
